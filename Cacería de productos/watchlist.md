@@ -6,7 +6,7 @@ Cada corrida diaria: re-buscar estos anunciantes. Si siguen activos tras 7+ día
 |---|---|---|---|---|---|
 | Tori Business Growth | 330683873451642 | 2026-10-08 | ~26 | 10-27: 26+ | fuera de criterio (plataforma SaaS, no infoproducto); ver auditoría |
 | Esquadrias Lucrativas | 100189656170535 | 2026-10-08 | 5 | 10-27: 19 | en observación (anunciante chico e intermitente); ver auditoría |
-| VGL Treinamento Digital | 101918672390936 | 2026-10-08 | 4 | 10-27: ~35 (pivot a Reforma Tributária) | en observación reforzada (6 días de evidencia); ver auditoría |
+| VGL Treinamento Digital | 101918672390936 | 2026-10-08 | 4 | 10-27: ~35 (temas de Reforma Tributária; "IA para contadores" no visto) | en observación reforzada (6 días de evidencia); ver auditoría |
 | Merani Brasil | 794006123802113 | 2026-10-08 | 4 | 10-27: 14 | **candidato más sólido** (olas cada 2-3 días desde ~7/10, ya testea ES); falta verificar CTA y precio |
 | Escuela de Salud Integrativa | 1317063775036441 | 2026-10-08 | ~22 | 10-27: 3 | en observación (bajó) |
 | Avant Garde Breast Academy | 550434881495292 | 2026-10-08 | 6 | sin dato 10-27 | en observación |
