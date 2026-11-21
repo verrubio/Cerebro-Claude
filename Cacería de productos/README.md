@@ -3,3 +3,4 @@ Informe diario (listo antes de las 5:30 AM ART) de infoproductos con anuncios ac
 - `AAAA-MM-DD.md` — informe del día
 - `watchlist.md` — seguimiento de persistencia de anunciantes
 - `CRITERIOS.md` — filtros obligatorios de cada corrida (sin WhatsApp, sin marcas personales)
+- `NO_RECOMENDADOS.md` — nichos/productos descartados por el dueño (leer antes de cada corrida)

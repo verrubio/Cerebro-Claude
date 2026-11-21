@@ -8,7 +8,7 @@ Cada corrida diaria: re-buscar estos anunciantes. Si siguen activos tras 7+ día
 | Escuela de Salud Integrativa | 1317063775036441 | 2026-10-08 | ~22 | ⛔ sin ads activos (2026-11-21) |
 | Avant Garde Breast Academy | 550434881495292 | 2026-10-08 | 6 | ✅ ganador confirmado (2026-11-21, 30+ ads) |
 | Business EdCourses | 509993222192201 | 2026-10-08 | 6 | ⛔ sin ads activos (2026-11-21) |
-| Esquadrias Lucrativas | 100189656170535 | 2026-10-08 | 5 | ✅ ganador confirmado (2026-11-21, 7+ ads) |
+| Esquadrias Lucrativas | 100189656170535 | 2026-10-08 | 5 | ⛔ retirado 2026-11-21 (nicho oficios de obra, NO_RECOMENDADOS) |
 | VGL Treinamento Digital | 101918672390936 | 2026-10-08 | 4 | ✅ ganador confirmado (2026-11-21) |
 | Cardiologia Completa | 1170978486080270 | 2026-10-08 | 4 | ✅ persiste (2026-11-21, 9 ads) |
 | Merani Brasil | 794006123802113 | 2026-10-08 | 4 | ✅ ganador confirmado (2026-11-21, 15+ ads) |
@@ -21,11 +21,7 @@ _Retirados 2026-10-08 por criterio (WhatsApp / marca personal): Vitalidad con La
 | Anunciante | page_id | Primera detección | Ads (1ª vez) | Estado |
 |---|---|---|---|---|
 | Cursos de Terapias Naturais Online | 470405759800516 | 2026-11-21 | ~50 | en observación |
-| EbookStore | 1364849936702974 | 2026-11-21 | 5 | en observación |
 | Ebooksdrive | 1288488444342047 | 2026-11-21 | 2 | en observación |
-| DTF Textil para Principiantes | 1345759621960588 | 2026-11-21 | 4 | en observación |
-| Soy La Fuerza | 105380395183355 | 2026-11-21 | 2 | en observación |
-| Delicias Para Emprender | 115447018291628 | 2026-11-21 | 2 | en observación |
 | AI Flipping | 939543465908838 | 2026-11-21 | 2 | en observación |
 | Ruta Digital IA | 1367072139813276 | 2026-11-21 | 1 | en observación |
 | Cursos Capacita Estética | 116782248031646 | 2026-11-21 | 2 | en observación |
